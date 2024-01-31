@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yZ41P3YdMYMiyFPAPrzyGw.gif)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yZ41P3YdMYMiyFPAPrzyGw.gif)](https://zaap.bio/yashkarki)
 <h1 align="center">Hi 👋, I'm Yashpal Singh Karki</h1>
 <h3 align="center">A Backend Developer in Django from 🇮🇳 passionate about developing production-ready applications with 3+ years of professional onsite as well as remote working experience. 🎯</h3>
 
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/yash-karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-karki" height="30" width="40" /></a>
 <a href="https://instagram.com/yashkarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashkarki" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@yashkarki7556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yashkarki7556" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/yashkarki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yashkarki/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yashkarki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yashkarki/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
