@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python,Django**
 
-- 📫 How to reach me **yashkarki007@gmail.com**
+- 📫 You can ping me **yashkarki007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
